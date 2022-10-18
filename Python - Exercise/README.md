@@ -9,22 +9,3 @@ I have created several Python programs and sorted them out in chapters. This por
 </p>
  <h3>Chapter - 1 : Getting Started with Python<h3> 
  
- <ul>
-    <li>Exercise # 1</li>
-    
-    Write a Python program to print the following string in a specific format.
-
-    Twinkle, twinkle, little star, 
-    How I wonder what you are! 
-    Up above the world so high, 
-    Like a diamond in the sky. 
-    Twinkle, twinkle, little star, 
-    How I wonder what you are
-    
-    <li>Exercise # 2</li>
-    
-    Write a Pyhton program to display the version of Python
-    
-    
-    
-</ul>
