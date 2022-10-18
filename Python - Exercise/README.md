@@ -10,4 +10,7 @@ I have created several Python programs and sorted them out in chapters. This por
  <h3>Chapter - 1 : Getting Started with Python</h3> 
  
  <h4>EXERCISE # 1:</h4>
+ <p>
+ Write a program to print your favorite English Rhymes using print() statements.
+ </p>
  
