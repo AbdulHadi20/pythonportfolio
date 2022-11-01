@@ -1,4 +1,8 @@
-# a program to display the version of python
+"""
+Chapter 1, Exercise 2: Printing the version of Python
+
+Write a Python program to get the Python version you are using.
+"""
 
 import sys  # sys module/library called by import function
 
