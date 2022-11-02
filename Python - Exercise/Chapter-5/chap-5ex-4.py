@@ -20,3 +20,13 @@ for key, value in rivers.items():                                      # for loo
     print(f'Value: {value}')
 
     print(f'The river {key} flows through {value}')
+
+print('The following are included the set: ')
+
+for river in rivers.keys():
+    print(
+    print(f"-{river.title()}")
+
+print('\nThe following countries are included in theset: ')
+for country in rivers.values():
+  print(f"-{country.title()}") 
