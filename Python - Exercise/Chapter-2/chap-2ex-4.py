@@ -1,6 +1,10 @@
-# a program to represent your favorite number
+"""
+Chapter 2, Exercise 4: Favorite Number
 
-print('Enter your favorite number = ')
+Use a variable to represent your favorite number. Then,using that variable, create a message that reveals your favorite number. Print that message.
+"""
+
+print('Enter your favorite number = ')  # asks the user for a number
 fav_num = int(input())
 
-print('Your favorite number is ' + str(fav_num))
+print('Your favorite number is ' + str(fav_num)) # prints the number and sends a msg 
