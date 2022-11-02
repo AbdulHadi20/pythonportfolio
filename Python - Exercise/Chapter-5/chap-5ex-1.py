@@ -1,9 +1,14 @@
-# a program to use a dictionary to store information of a person
+"""
+Chapter 5, Exercise 1: Person
+
+Use a dictionary to store information about a person you know.Store their first name, last name, age, and the city in which they live. You
+should have keys such as first_name, last_name, age, and city. Print each piece of information stored in your dictionary.
+"""
 
 user_info = {'first_name': 'AbdulHadi',
-             'last_name': 'Aamir', 'city': 'Dubai', 'age': '19'}
+             'last_name': 'Aamir', 'city': 'Dubai', 'age': '19'}    # dictionary
 
-print(user_info['first_name'])
+print(user_info['first_name'])   #printing each element in the dictionary
 print(user_info['last_name'])
 print(user_info['city'])
 print(user_info['age'])
