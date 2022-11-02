@@ -7,7 +7,7 @@ Use a loop to print the name of each river included in the dictionary.
 Use a loop to print the name of each country included in the dictionary.
 """
 
-rivers = {
+rivers = {                                                         # dictionary/glossary
     'Nile': 'Egypt',
     'Indus': 'Pakistan',
     'Amazon': 'Brazil'
@@ -15,7 +15,7 @@ rivers = {
 
 print('Printing Key-Value pairs:')
 
-for key, value in rivers.items():
+for key, value in rivers.items():                                      # for loop to display key-value pairs
     print(f'\n Key: {key}')
     print(f'Value: {value}')
 
