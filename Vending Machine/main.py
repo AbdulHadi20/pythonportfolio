@@ -66,7 +66,6 @@ items = [
 
 # global variables
 cart = []
-random_suggestions = []
 sum = 0
 run = True
 receipt = """Receipt"""
